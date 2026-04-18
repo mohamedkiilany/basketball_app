@@ -9,4 +9,4 @@ A Flutter app that tracks a basketball game score for **Team A** and **Team B**.
 
 ## Screenshot
 
-![App screenshot](image/Screenshot%202026-04-18%20143044.png)
+<img src="image/Screenshot%202026-04-18%20143044.png" width="300"/>
